@@ -1,15 +1,19 @@
 # Pizza_Sales_Analysis-Power_Bi_dashboard📊
 
 🚀Live Project Link:
+
 https://app.powerbi.com/view?r=eyJrIjoiODkxNzEzMjgtNzE4Yi00MWU0LWIxYWEtMjIzZDQyMjVhZTM2IiwidCI6ImJmMzBiYTQyLWZkMmEtNGJmZC05ZTFkLTJkNWNhOTdmYzU1OCJ9
 
 🚀Presentation Link:
+
 https://www.linkedin.com/posts/priti-waghmode-a3a68133b_powerbi-pizzasales-salesanalysis-activity-7275883917793001473-9Qfb?utm_source=share&utm_medium=member_desktop
 
 🚀Database Link:
+
 https://github.com/pritiwaghmode/Pizza_Sales_Analysis-Power_Bi_dashboard/blob/main/pizza_sales.zip
 
 📊Dashboard:
+
 ![Screenshot 2025-01-25 185118](https://github.com/user-attachments/assets/56a7761d-08cf-417b-872b-0bd81ca1789a)
 
 ![Screenshot 2025-01-25 185133](https://github.com/user-attachments/assets/d10557dc-96a9-4992-a728-2fdda37b461c)
