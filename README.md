@@ -1,21 +1,21 @@
-# Pizza_Sales_Analysis-Power_Bi_dashboard
+# Pizza_Sales_Analysis-Power_Bi_dashboard📊
 
-Live Project Link:
+🚀Live Project Link:
 https://app.powerbi.com/view?r=eyJrIjoiODkxNzEzMjgtNzE4Yi00MWU0LWIxYWEtMjIzZDQyMjVhZTM2IiwidCI6ImJmMzBiYTQyLWZkMmEtNGJmZC05ZTFkLTJkNWNhOTdmYzU1OCJ9
 
-Presentation Link:
+🚀Presentation Link:
 https://www.linkedin.com/posts/priti-waghmode-a3a68133b_powerbi-pizzasales-salesanalysis-activity-7275883917793001473-9Qfb?utm_source=share&utm_medium=member_desktop
 
-Database Link:
+🚀Database Link:
 https://github.com/pritiwaghmode/Pizza_Sales_Analysis-Power_Bi_dashboard/blob/main/pizza_sales.zip
 
-Dashboard:
+📊Dashboard:
 ![Screenshot 2025-01-25 185118](https://github.com/user-attachments/assets/56a7761d-08cf-417b-872b-0bd81ca1789a)
 
 ![Screenshot 2025-01-25 185133](https://github.com/user-attachments/assets/d10557dc-96a9-4992-a728-2fdda37b461c)
 
 
-Objective:
+✔️Objective:
 
 To analyze pizza sales data to provide actionable insights on sales performance, customer performance and revenue generation. By examining sales trends and customer prefernces, the goal is to identify opportunities to refine marketing strategies, improve operational strategies and ultimately boost revenue.
 
@@ -27,7 +27,7 @@ About The Dataset:
 
 This report provides a comprehensive analysis of pizza sales from Jan 2015 to Dec 2015. Data was collected from various pizza locations across the United States and analyzed to uncover patterns, customer preferences, and sales trends over the year.
 
-Stakeholders:
+💡Stakeholders:
 
 1.Staff and Management:Collaborated to gather and analyze sales data, ensuring accuracy and relevence.
 
@@ -41,23 +41,23 @@ Stakeholders:
 
 6.Strategy Advisors:Provided insights and guidance for aligning data finding with long-term businss growth plans.
 
-KPIs:
+✔️KPIs:
 
-Total Revenue:$817,860.05
+🔹Total Revenue:$817,860.05
 
-Average Order Value:$37.56
+🔹Average Order Value:$37.56
 
-Total Pizzas Sold:49,574
+🔹Total Pizzas Sold:49,574
 
-Total Orders:21,350
+🔹Total Orders:21,350
 
-Average Pizzas per Order:2.32 
+🔹Average Pizzas per Order:2.32 
 
-Average_Monthly_Revenue:$68,155.00
+🔹Average_Monthly_Revenue:$68,155.00
 
-Peak Times:12-1 AM and 9-6 PM
+🔹Peak Times:12-1 AM and 9-6 PM
 
-Solutions:
+💡Solutions:
 
 Increase Peak Times Efficiency:Optimize staffing and kitchn operations between 12-1 AM and 9-6 PM to maximze throughout during peak hours.
 
@@ -68,7 +68,7 @@ Marketing Campaigns:Run targeted promotions to increase the daily customer count
 Data-Dreiven Menue Adjustments: Use sales data to refine the menue, focusing on high-demand and high-margin pizzas to drive total revenue growth.
 
 
-Conclusions:
+✅Conclusions:
 
 The 2015 sales data reveals insights into customer behavior, including peak times, popular pizzas and average order values. Analyzing these trends helps management idntify reasons for the sales decline, such as changing preferences or service inconsistencies. By using this data , strategies like new menue items, targeted promotions, optimized staffing, and loyalty programs can be implemented. Excel-based visualizations, incluing charts and graphs, make these insights clear, enabling data-driven descisions to improve performance and drive sustainable growth.
 
